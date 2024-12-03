@@ -30,5 +30,5 @@ How does age, accomodations, and reviews affect Airbnb prices in Amsterdam?
 The final model included the predictors property type, number of reviews, review scores, number of people that can be accommodated, and neighbourhood, with an $R^2_{adj}=0.4925$.
 
 ## Deliverables
-- (Airbnb Pricing Predictions Poster)[]
-- (Airbnb Pricing Predictions Report)[]
+- [Airbnb Pricing Predictions Poster](https://github.com/sealine-e/airbnb-pricing/blob/main/STA302_final_project_poster.pdf)
+- [Airbnb Pricing Predictions Report]()*Link Not Active*

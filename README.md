@@ -31,4 +31,4 @@ The final model included the predictors property type, number of reviews, review
 
 ## Deliverables
 - [Airbnb Pricing Predictions Poster](https://github.com/sealine-e/airbnb-pricing/blob/main/STA302_final_project_poster.pdf)
-- [Airbnb Pricing Predictions Report]()*Link Not Active*
+- [Airbnb Pricing Predictions Report]() *Link Not Active*

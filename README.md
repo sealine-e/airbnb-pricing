@@ -1,5 +1,5 @@
 # Airbnb Pricing Predictions in Amsterdam
-**Project Status: Completed**
+**Project Status: Completed (README under construction)**
 
 ## Project Overview
 This project explores factors influecing Airbnb pricing in Amsterdam using multiple linear regression. By identifying the most siginificant predictors, such as property features and reviews, this study aims to help hosts in optimizing their listings and aid travellers in finding the best value. 
@@ -21,8 +21,8 @@ How does age, accomodations, and reviews affect Airbnb prices in Amsterdam?
 ## Key Steps
 1. **Data Wrangling**: Filtered original dataset for Amsterdam-specific listings and removed incomplete values.
 2. **Model Building**:
-  - Developed preliminary regression model, fitting predictors chosen from results of previous peer-reviewed studies.
-  - Improved model using techniques such as automatic stepwise BIC selection, VIF analysis, variance-stabilizing transformations, and Box-Cox transformations.
+   - Developed preliminary regression model, fitting predictors chosen from results of previous peer-reviewed studies.
+   - Improved model using techniques such as automatic stepwise BIC selection, VIF analysis, variance-stabilizing transformations, and Box-Cox transformations.
 3. **Interaction Terms**: Incorporated interaction terms based on previous peer-reviewed studies.
 4. **Validation**: Performed ANOVA tests, train-test splits, and Leave-One-Out Cross Validation (LOOCV) to validate the model.
 

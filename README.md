@@ -1,5 +1,5 @@
 # Airbnb Pricing Predictions in Amsterdam
-**Project Status: Completed (README under construction)**
+**Project Status: Completed**
 
 ## Project Overview
 This project explores factors influecing Airbnb pricing in Amsterdam using multiple linear regression. By identifying the most siginificant predictors, such as property features and reviews, this study aims to help hosts in optimizing their listings and aid travellers in finding the best value. 
@@ -31,4 +31,4 @@ The final model included the predictors property type, number of reviews, review
 
 ## Deliverables
 - [Airbnb Pricing Predictions Poster](https://github.com/sealine-e/airbnb-pricing/blob/main/STA302_final_project_poster.pdf)
-- [Airbnb Pricing Predictions Report]() *Link Not Active*
+
